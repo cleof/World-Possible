@@ -1,0 +1,10 @@
+User-agent: *
+
+Allow: /
+Disallow: /comments/*
+Disallow: /embed/*
+Disallow: /s?k=*
+
+
+sitemap: https://learningenglish.voanews.com/sitemap.xml
+
